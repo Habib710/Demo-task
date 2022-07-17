@@ -1,0 +1,24 @@
+.banner-css{
+    min-height: 90vh;
+    padding: 0;
+    background:linear-gradient(rgba(19, 18, 18, 0.781),rgba(26, 25, 25, 0.767)), url('https://www.simplilearn.com/ice9/free_resources_article_thumb/tester-or-developer-what-suits-you-the-most.jpg');
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.welcome{
+    font-weight: 600;
+    font-size: 60px;
+}
+.d2-css{
+    color: rgb(232, 30, 73);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    font-size: 90px;
+}

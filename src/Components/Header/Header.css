@@ -1,0 +1,26 @@
+.nav-css{
+    background-color: rgb(236, 241, 245);
+    min-height: 80px;
+}
+.nav-link a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+.d-css{
+    font-size: 36px;
+    color: rgb(232, 30, 73);
+}
+.btn-css{
+    background-color:rgb(232, 30, 73) ;
+    color: rgb(253, 253, 253);
+    font-weight: 700;
+    font-size: 18px;
+    border: none;
+    border-radius: 25px;
+    padding: 8px 15px;
+}
