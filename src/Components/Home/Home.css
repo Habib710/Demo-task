@@ -20,4 +20,33 @@
     
     color: rgb(255, 40, 124);
 }
+.card-dev{
+    padding: 45px 15px;
+    border-radius: 20px;
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.384) 0px 19px 38px, rgba(0, 0, 0, 0.144) 0px 15px 12px;
+}
+.card-dev img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 8px solid rgb(255, 40, 124) ;
+
+}
+.all-card{
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(350px, 3fr) );
+    grid-gap: 65px;
+
+}
+.colors-icon{
+    color: rgb(80, 11, 241);
+}
+.check-css{
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(250px, 4fr) );
+    grid-gap: 40px;
+
+}
                       

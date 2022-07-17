@@ -2,6 +2,8 @@ import React from 'react';
 import Banner from '../Banner/Banner';
 import { Link } from 'react-router-dom';
 import './Home.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCheckCircle } from '@fortawesome/free-solid-svg-icons';
 
 const Home = () => {
     return (
@@ -51,11 +53,100 @@ const Home = () => {
 
             {/* Our team Section............ */}
 
-            <section className='container py-5 mt-5'>
-                <h1 className='text-center'>Our Team</h1>
+            <section className='container py-5 '>
+                <h1 className='text-center my-5 pb-5'>Our Team</h1>
 
-                <div>
-                    
+                <div className='all-card py-5 my-5'>
+                    <div className='card-dev text-center'>
+                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
+                        <h1 className='py-3'>Jhon Doe</h1>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
+                    </div>
+                    <div className='card-dev text-center'>
+                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
+                        <h1 className='py-3'>Jhon Doe</h1>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
+                    </div>
+                    <div className='card-dev text-center'>
+                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
+                        <h1 className='py-3'>Jhon Doe</h1>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
+                    </div>
+                    <div className='card-dev text-center'>
+                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
+                        <h1 className='py-3'>Jhon Doe</h1>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
+                    </div>
+                    <div className='card-dev text-center'>
+                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
+                        <h1 className='py-3'>Jhon Doe</h1>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
+                    </div>
+                    <div className='card-dev text-center'>
+                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
+                        <h1 className='py-3'>Jhon Doe</h1>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
+                    </div>
+
+
+
+                </div>
+
+
+
+            </section>
+            {/*............ last section............. */}
+            <section className='container py-5 my-5'>
+                <div className='check-css'>
+
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
+                    <div className='d-flex'>
+                    <FontAwesomeIcon className='fs-3 colors-icon' icon={faCheckCircle} />  <h6 className='px-2'>Lorem ipsum dolor sit <br /> amet consectetur adipisicing. </h6>
+                    </div>
 
 
 
