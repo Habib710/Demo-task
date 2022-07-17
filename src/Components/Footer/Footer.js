@@ -29,7 +29,7 @@ const Footer = () => {
                     <p>Consulting</p>
                     <p>Human RESOURCE</p>
                     <p>Accounting</p>
-                    <p>Marketing & SEO</p>
+                    <p>Marketing && SEO</p>
                     
                 </div>
                 <div>

@@ -20,8 +20,8 @@ const Home = () => {
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat vitae voluptatibus exercitationem. At, veritatis. Adipisci, dolore ab porro ullam fugiat nostrum consequuntur optio ea inventore, molestias, esse voluptate nemo quo.
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat vitae voluptatibus exercitationem. At, veritatis. Adipisci, dolore ab porro ullam fugiat nostrum consequuntur optio ea inventore, molestias, esse voluptate nemo quo.
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat vitae voluptatibus exercitationem. At, veritatis. Adipisci, dolore ab porro ullam fugiat nostrum consequuntur optio ea inventore, molestias, esse voluptate nemo quo.
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat vitae voluptatibus exercitationem. At, veritatis. Adipisci, dolore ab porro ullam fugiat nostrum consequuntur optio ea inventore, molestias, esse voluptate nemo quo.
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat vitae voluptatibus exercitationem. At, veritatis.
+                            
                         </p>
                         <Link className='read' to='/read'> <h4 > Read More</h4></Link>
                     </div>
@@ -78,7 +78,7 @@ const Home = () => {
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
                     </div>
                     <div className='card-dev text-center'>
-                        <img src="https://thumbs.dreamstime.com/z/software-developer-smiling-young-working-computer-54668839.jpg" alt="img" />
+                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
                         <h1 className='py-3'>Jhon Doe</h1>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
                     </div>
