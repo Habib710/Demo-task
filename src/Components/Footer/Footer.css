@@ -1,0 +1,19 @@
+.footer-div{
+    min-height: 500px;
+    background-color: black;
+}
+.footer-div-2{
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(200px, 3fr) );
+    justify-content: space-evenly;
+}
+.footer-div-2 p{
+    color: rgb(141, 141, 141);
+    font-weight: 500;
+    font-size: 18px;
+}
+.f-cs{
+    color: rgb(255, 40, 124);
+    font-size: 70px;
+
+}

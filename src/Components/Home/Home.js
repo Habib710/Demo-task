@@ -63,22 +63,22 @@ const Home = () => {
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
                     </div>
                     <div className='card-dev text-center'>
-                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
+                        <img src="https://cdn.smartrecruiters.com/blog/wp-content/uploads/2020/06/job-interview-one.jpg" alt="img" />
+                        <h1 className='py-3'>Daon jaki</h1>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
+                    </div>
+                    <div className='card-dev text-center'>
+                        <img src="https://www.workitdaily.com/media-library/woman-goes-on-a-virtual-job-interview.jpg?id=22903995&width=2000&quality=85&coordinates=50%2C0%2C50%2C0&height=1500" alt="img" />
                         <h1 className='py-3'>Jhon Doe</h1>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
                     </div>
                     <div className='card-dev text-center'>
-                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
+                        <img src="https://www.4cornerresources.com/wp-content/uploads/2021/02/Virtual-Interviewer-scaled.jpeg" alt="img" />
                         <h1 className='py-3'>Jhon Doe</h1>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
                     </div>
                     <div className='card-dev text-center'>
-                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
-                        <h1 className='py-3'>Jhon Doe</h1>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
-                    </div>
-                    <div className='card-dev text-center'>
-                        <img src="https://cdn-static.findly.com/wp-content/uploads/sites/1842/2021/11/02140414/VIT-1.jpeg" alt="img" />
+                        <img src="https://thumbs.dreamstime.com/z/software-developer-smiling-young-working-computer-54668839.jpg" alt="img" />
                         <h1 className='py-3'>Jhon Doe</h1>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat itaque consequuntur sit asperiores tenetur soluta error a illum doloremque</p>
                     </div>
